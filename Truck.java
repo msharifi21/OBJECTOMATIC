@@ -1,4 +1,3 @@
-package J002_Inheritance;
 
 public class Truck {
 	
